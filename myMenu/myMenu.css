@@ -1,0 +1,123 @@
+header {
+    /* background-color: rgb(3, 56, 96); */
+    background-image: url('https://wallpaperaccess.com/full/775121.gif');
+    /* Direitos da imagem reservadas ao seu criador. Site sem uso comercial. fins de portifólio! */
+    background-size: cover;
+    color: beige;
+    text-align: center;
+    padding: 20px;
+}
+
+header h3 {
+    background-color: rgb(3, 56, 96);
+    width:fit-content;
+    margin: auto;
+    border-radius: 10px;
+    text-decoration: underline;
+}
+
+html, main{
+    background-color: rgb(9, 145, 195);
+}
+
+.major-div {
+    height: 20px;
+    background-color: black;
+}
+
+main {
+    display: flex;
+    justify-content:space-around;
+    margin-bottom: 50px;
+}
+
+header h1 {
+    font-size: 100px;
+    color: rgb(7, 138, 237);
+}
+
+.food-input-area {
+    display: flex;
+}
+
+.food-area {
+    padding: 20px;
+}
+
+.drink-input-area {
+    display: flex;
+}
+
+.drinks-area {
+    padding-right: 20px;
+    padding-left: 20px;
+    padding-bottom: 20px;
+}
+
+h2 {
+    padding: 20px;
+}
+
+.food-menu {
+    margin-left: 20px;
+    margin-right: 20px;
+}
+
+.drink-menu {
+    margin-left: 20px;
+    margin-top: 20px;
+    margin-right: 20px;
+}
+
+.sub-save-menu-section {
+    padding: 20px;
+    display: flex;
+}
+
+.saved-menus {
+    margin-bottom: 50px;
+}
+
+.saved-item {
+    font-weight: bold;
+
+}
+
+#show-chosen-menu {
+    margin-bottom: 50px;
+}
+
+.chosen-food-item {
+    margin-left: 20px;
+    margin-right: 20px;
+}
+
+.chosen-drink-item {
+    margin-left: 20px;
+    margin-right: 20px;
+}
+
+#menu-for-consumption {
+    display: flex;
+    margin-bottom: 20px;
+}
+
+#client-creation {
+    display: flex;
+    margin-bottom: 20px;
+}
+
+.sub-section-client {
+    display: flex;
+    margin-bottom: 20px;
+}
+
+footer {
+    position: fixed;
+    bottom: 0;
+    background-color: black;
+    color: white;
+    padding: 10px;
+    width: 100%;
+    text-align: center;
+}
