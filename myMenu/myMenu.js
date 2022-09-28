@@ -150,7 +150,7 @@ const savedMenuList = (menuName) => {
 }
 
 const saveMenu = () => {
-  const savedMenuName = document.querySelector('#saved-menu-name').value;
+  const savedMenuName = document.querySelector('#saved-menu-name').value.toLowerCase();
   localStorage.setItem(savedMenuName, getBuiltMenu())
   savedMenuList(savedMenuName);
   storageSavedMenuOl();
@@ -201,6 +201,7 @@ const drinkLinesFunc = (drinkArray) => {
 
 const callMenuButtonFunc = () => {
   const menuObjName = document.getElementById('menu-obj-name').value.toLowerCase();
+  console.log(menuObjName);
   const chosenMenuInfo = JSON.parse(localStorage.getItem(menuObjName))
   presentMenu = chosenMenuInfo;
   console.log(chosenMenuInfo);

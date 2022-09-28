@@ -8,14 +8,6 @@ header {
     padding: 20px;
 }
 
-header h3 {
-    background-color: rgb(3, 56, 96);
-    width:fit-content;
-    margin: auto;
-    border-radius: 10px;
-    text-decoration: underline;
-}
-
 html, main{
     background-color: rgb(9, 145, 195);
 }
@@ -34,6 +26,8 @@ main {
 header h1 {
     font-size: 100px;
     color: rgb(7, 138, 237);
+    text-shadow: -1px 0 black, 0 1px black, 1px 0 black, 0 -1px black;
+
 }
 
 .food-input-area {
