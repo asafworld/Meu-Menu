@@ -8,7 +8,7 @@
 <!--ts-->
    * [Organização do Repositório](#organização-do-repositório)
    * [Modo de uso](#modo-de-uso)
-   * [Instalação](#instalacao)
+   * [Iniciação](#iniciação)
 <!--te-->
 
 # ORGANIZAÇÃO DO REPOSITÓRIO: 
@@ -36,7 +36,7 @@ Para poder cadastrar um cliente, digite seu nome e aperte o botão "Criar client
 ![Gerenciar vendas](myMenu/images/gerenciar-menu-atual.gif)
 
 
-# INSTALAÇÃO: 
+# INICIAÇÃO: 
 
 Ao clonar o projeto, você deverá usar a extensão Live Server (ou outra semelhante) para acessar o aplicativo.
 
