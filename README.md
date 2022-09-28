@@ -23,17 +23,17 @@
 
 Para adicionar um alimento ou uma bebida, prossiga para os campos responsáveis a esquerda da tela, digite seu nome, registre o preço e clique no botão "Adicionar". Ao adicioná-lo, o produto será exibido na tela.
 
-![Demonstrativo de adição de comida e bebida](images/add-food-and-drink.gif)
+![Demonstrativo de adição de comida e bebida](myMenu/images/adiciona-comida-bebida.gif)
 
 Uma vez que adicionou as comidas e bebidas, digite o nome do menu (Não digite nomes compostos). Uma vez nomeado, aperte no botão "Salvar menu" e o veja ser listado logo abaixo. Todos os menus são salvos no local-storage do seu navegador.
 
-![Salva um menu](images/salva-menu.gif)
+![Salva um menu](myMenu/images/salva-menu.gif)
 
 Para usufruir de um dos menus salvos, pesquise pelo nome do seu menu e clique no botão "Escolher menu". Logo em seguida a lista de comidas e bebidas vendidas será exibida. 
 
 Para poder cadastrar um cliente, digite seu nome e aperte o botão "Criar cliente". Uma seção nova será criada para este cliente, onde você poderá registrar os produtos consumidos e ver o preço total a ser pago. Uma vez que o cliente consumiu o todo, sua "comanda" poderá ser encerrada.
 
-![Gerenciar vendas](images/gerenciar-menu-atual.gif)
+![Gerenciar vendas](myMenu/images/salva-menu.gif)
 
 
 # INSTALAÇÃO: 
