@@ -33,7 +33,7 @@ Para usufruir de um dos menus salvos, pesquise pelo nome do seu menu e clique no
 
 Para poder cadastrar um cliente, digite seu nome e aperte o botão "Criar cliente". Uma seção nova será criada para este cliente, onde você poderá registrar os produtos consumidos e ver o preço total a ser pago. Uma vez que o cliente consumiu o todo, sua "comanda" poderá ser encerrada.
 
-![Gerenciar vendas](myMenu/images/salva-menu.gif)
+![Gerenciar vendas](myMenu/images/gerenciar-menu-atual.gif)
 
 
 # INSTALAÇÃO: 
